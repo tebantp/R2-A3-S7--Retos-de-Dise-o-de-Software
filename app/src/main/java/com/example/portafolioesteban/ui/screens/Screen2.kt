@@ -28,7 +28,7 @@ fun Screen2(
 ) {
     Box(modifier = Modifier.fillMaxSize()) {
         AsyncImage(
-            model = "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop",
+            model = "https://github.com/tebantp/R2-A3-S7--Retos-de-Dise-o-de-Software/blob/main/Screen2.jpeg?raw=true",
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop,

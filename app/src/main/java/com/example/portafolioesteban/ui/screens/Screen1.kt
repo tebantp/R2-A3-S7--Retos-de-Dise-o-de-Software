@@ -29,7 +29,7 @@ fun Screen1(
     Box(modifier = Modifier.fillMaxSize()) {
         // Fondo con imagen difuminada (URL)
         AsyncImage(
-            model = "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2029&auto=format&fit=crop",
+            model = "https://github.com/tebantp/R2-A3-S7--Retos-de-Dise-o-de-Software/blob/main/Screen1.jpeg?raw=true",
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop,
